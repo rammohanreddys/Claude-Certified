@@ -12,10 +12,6 @@
 
 **Domain 5:** **Context Management & Reliability** — Managing context across long-running conversations and large codebases, handling uncertainty, preserving information provenance, and designing escalation, human-review, and ambiguity-resolution workflows.
 
-## Domain 1: Agentic Architecture & Orchestration:
 
-This PDF presentation (**Domain 1: Agentic Architecture & Orchestration** by Ankit Mistry) covers how to build, coordinate, control, and manage AI agents (specifically using Claude) beyond simple single-turn chatbots.
-
-The presentation is organized into seven core sections:
 
 
