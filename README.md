@@ -1,1 +1,1 @@
-# Claude-Certified documentation
+# Claude-Certified Architect Foundation Documentation
